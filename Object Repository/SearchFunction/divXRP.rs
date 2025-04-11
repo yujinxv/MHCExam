@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divXRP</name>
+   <tag></tag>
+   <elementGuidId>eea3a9ec-13f9-4821-97af-d44377500b28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cryptoassets'])[2]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchCryptoRow_container__rfpiB.focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>661011d7-6653-47e1-9de8-e3c0b1dfcebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchCryptoRow_container__rfpiB focused</value>
+      <webElementGuid>648a885a-45f1-4ef5-b6e3-333a1b0a5f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>XRP#4XRPMCap:$117.5BVol(24h):$4.2B$2.010.94%</value>
+      <webElementGuid>87caf027-67c3-4c66-b8bd-6a0b7ca6a673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;DAY NIGHT common-overflow&quot;]/div[3]/div[6]/div[@class=&quot;Overlay_base__X2QP3 Modal_overlay__wGYev overlay-fade-enter-done&quot;]/div[@class=&quot;Modal_wrapper__KLeg2 Modal_mobile-fullscreen__nSEhF Search_modal-wrapper__WlBGJ&quot;]/div[@class=&quot;modal-body-wrapper Modal_dialog-body-wrapper__G4CTp Modal_dialog-common-wrapper-space__9oWxL&quot;]/div[@class=&quot;sc-951d4f56-0 bFgTgh Search_container__THKkg Search_dark-mode___XGR_&quot;]/div[@class=&quot;ResultList_scroll-area__mVyDg&quot;]/div[@class=&quot;ResultList_result-section__6ozWE&quot;]/a[@class=&quot;sc-65e7f566-0 eQBACe cmc-link&quot;]/div[@class=&quot;SearchCryptoRow_container__rfpiB focused&quot;]</value>
+      <webElementGuid>636fa24d-3922-4f97-9017-4c1017965ed5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cryptoassets'])[2]/following::div[1]</value>
+      <webElementGuid>48d59de2-0b94-4b60-a29b-394790111f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[4]/following::div[6]</value>
+      <webElementGuid>eb39e8b3-e014-4f32-9096-0ed9678fed12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/a/div</value>
+      <webElementGuid>8e2c26b0-e355-47a4-a94d-f8993e3d977e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'XRP#4XRPMCap:$117.5BVol(24h):$4.2B$2.010.94%' or . = 'XRP#4XRPMCap:$117.5BVol(24h):$4.2B$2.010.94%')]</value>
+      <webElementGuid>f46c0701-a9aa-4153-aa43-d4ca9cde33cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

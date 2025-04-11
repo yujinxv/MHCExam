@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divEthereum</name>
+   <tag></tag>
+   <elementGuidId>d5b9c497-958f-45a1-b95d-2a0a9235cd48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cryptoassets'])[2]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchCryptoRow_container__rfpiB.focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28cfc61a-3c45-4425-82fb-0c63272bfcca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchCryptoRow_container__rfpiB focused</value>
+      <webElementGuid>3caa43b5-56f1-4ce2-bbcb-63766c8fd99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ethereum#2ETHMCap:$187.9BVol(24h):$20.7B$1,557.192.63%</value>
+      <webElementGuid>c46a0ac2-c009-4ec4-a8dd-778a430e7902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;DAY NIGHT common-overflow&quot;]/div[3]/div[6]/div[@class=&quot;Overlay_base__X2QP3 Modal_overlay__wGYev overlay-fade-enter-done&quot;]/div[@class=&quot;Modal_wrapper__KLeg2 Modal_mobile-fullscreen__nSEhF Search_modal-wrapper__WlBGJ&quot;]/div[@class=&quot;modal-body-wrapper Modal_dialog-body-wrapper__G4CTp Modal_dialog-common-wrapper-space__9oWxL&quot;]/div[@class=&quot;sc-951d4f56-0 bFgTgh Search_container__THKkg Search_dark-mode___XGR_&quot;]/div[@class=&quot;ResultList_scroll-area__mVyDg&quot;]/div[@class=&quot;ResultList_result-section__6ozWE&quot;]/a[@class=&quot;sc-65e7f566-0 eQBACe cmc-link&quot;]/div[@class=&quot;SearchCryptoRow_container__rfpiB focused&quot;]</value>
+      <webElementGuid>81d9777b-266f-4640-9bf0-66a535a819a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cryptoassets'])[2]/following::div[1]</value>
+      <webElementGuid>f129c2c3-5eb3-4d61-820f-37193df8f14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[4]/following::div[6]</value>
+      <webElementGuid>ae1ee14c-b3c1-4424-8579-b8f59a49ce24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/a/div</value>
+      <webElementGuid>f401cdce-cfdf-46dc-b0e7-d0438a9e32d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ethereum#2ETHMCap:$187.9BVol(24h):$20.7B$1,557.192.63%' or . = 'Ethereum#2ETHMCap:$187.9BVol(24h):$20.7B$1,557.192.63%')]</value>
+      <webElementGuid>0a54bcb7-44e6-408a-b2c9-2ddbf52fed34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
