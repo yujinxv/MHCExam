@@ -23,14 +23,14 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.url)
 
-//Click Search bar and search for XRP
+'Click Search bar and search for XRP'
 WebUI.click(findTestObject('Object Repository/SearchFunction/searchBar'))
 
 WebUI.setText(findTestObject('Object Repository/SearchFunction/searchBarInput'), findTestData('Data Files/Coins').getValue('Coin', 1))
 
 WebUI.click(findTestObject('Object Repository/SearchFunction/divXRP'))
 
-//Verify XRP label
+'Verify XRP label'
 WebUI.verifyElementPresent(findTestObject('Object Repository/SearchFunction/lblXRP'), 
     0)
 
