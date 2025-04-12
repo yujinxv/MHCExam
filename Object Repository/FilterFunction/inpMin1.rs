@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inpMin1</name>
+   <tag></tag>
+   <elementGuidId>26c446d6-9920-411d-987b-bca60639454a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.BaseInput_base-wrapper__QXTyE.BaseInput_size-sm__z0vCT.Input_base__9dFSw.Input_vd__b8IjZ.RangeFormItem_input__v7eJ5.BaseInput_vd__yZx2O > div.BaseInput_input-wrapper__wWV3S.native-el-wrapper > input.cmc-input.input-el</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Min' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0f472daa-3b52-464b-ac1a-4ce39597a530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cmc-input input-el</value>
+      <webElementGuid>4c371860-0753-4043-8d89-eccee5285d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Min</value>
+      <webElementGuid>638bb2f6-3075-468e-aa6e-eb141a7946a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e0db7138-632a-4169-a701-0e06880b5899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ddb3866d-9341-46b0-ba7c-bd1689c48098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;DAY NIGHT common-overflow&quot;]/div[3]/div[2]/div[@class=&quot;Overlay_base__X2QP3 Modal_overlay__wGYev overlay-fade-enter-done&quot;]/div[@class=&quot;Modal_wrapper__KLeg2 Modal_mobile-fullscreen__nSEhF TableListingFilterModal_modal-wrapper__MzBWs&quot;]/div[@class=&quot;modal-body-wrapper Modal_dialog-body-wrapper__G4CTp Modal_dialog-common-wrapper-space__9oWxL&quot;]/div[@class=&quot;Form_form__YA6g_ TableListingFilterModal_form__JrfpJ&quot;]/div[@class=&quot;Form_form-item__xR_Oa form-item&quot;]/div[@class=&quot;Form_field-container__ovGrK&quot;]/div[@class=&quot;RangeFormItem_container__PK9re&quot;]/div[@class=&quot;BaseInput_base-wrapper__QXTyE BaseInput_size-sm__z0vCT Input_base__9dFSw Input_vd__b8IjZ RangeFormItem_input__v7eJ5 BaseInput_vd__yZx2O&quot;]/div[@class=&quot;BaseInput_input-wrapper__wWV3S native-el-wrapper&quot;]/input[@class=&quot;cmc-input input-el&quot;]</value>
+      <webElementGuid>dc0165d2-b4c2-488e-a141-219e9f72a7c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='1']</value>
+      <webElementGuid>bd8c0fcd-9f05-4f40-b9d9-744ac7fd8107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+      <webElementGuid>4a011d2b-2783-4df3-b0d1-ff07e230aede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Min' and @type = 'text']</value>
+      <webElementGuid>5a1f1b2a-6c05-474f-ae00-48a8260a8fe9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

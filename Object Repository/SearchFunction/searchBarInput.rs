@@ -6,16 +6,16 @@
    <elementGuidId>9db72f90-56f3-4d3c-a89a-111199bc1a6d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.sc-951d4f56-3.gNFMEo.search-input.desktop-input</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//input[@type = 'text' and @placeholder = 'Search coin, pair, NFT, contract address, exchange, or post']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c5593952-9df0-4150-b900-c0703efddc4a</webElementGuid>
+      <webElementGuid>b2e0be10-0504-41f6-b80b-56e8cc7fac55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +35,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>200</value>
-      <webElementGuid>0810cbae-c816-41fc-b353-a5a3b58fa39d</webElementGuid>
+      <webElementGuid>e345dcd7-dcb4-4ece-ae8f-920f56924d07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>deadad1b-b41b-46aa-bc04-ea3ad959fa7e</webElementGuid>
+      <webElementGuid>31c9c3d1-e1d5-4a46-bce3-4e7208c4ddcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sc-951d4f56-3 gNFMEo search-input desktop-input</value>
-      <webElementGuid>4b5842a9-63df-413e-ad34-f09f6789f7e7</webElementGuid>
+      <webElementGuid>318e45db-2d4a-4c87-9a49-c45bd4dfb464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>236e38a1-0421-4982-8aa0-acb65c7898ba</webElementGuid>
+      <webElementGuid>e30e93cb-ee7b-4e44-99df-5725d4037387</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search coin, pair, NFT, contract address, exchange, or post</value>
-      <webElementGuid>b0e95ba8-05f7-48d1-b25e-1408b462447b</webElementGuid>
+      <webElementGuid>69134bc8-e47c-4c46-92e6-54c5e04c7951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>value</name>
       <type>Main</type>
       <value>XRP</value>
-      <webElementGuid>ef297673-9fa8-4f64-8eb4-6b369379c895</webElementGuid>
+      <webElementGuid>b18fe23d-e4c7-4a97-a719-11411ec33288</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;DAY NIGHT common-overflow&quot;]/div[3]/div[6]/div[@class=&quot;Overlay_base__X2QP3 Modal_overlay__wGYev overlay-fade-enter-done&quot;]/div[@class=&quot;Modal_wrapper__KLeg2 Modal_mobile-fullscreen__nSEhF Search_modal-wrapper__WlBGJ&quot;]/div[@class=&quot;modal-body-wrapper Modal_dialog-body-wrapper__G4CTp Modal_dialog-common-wrapper-space__9oWxL&quot;]/div[@class=&quot;sc-951d4f56-0 bFgTgh Search_container__THKkg Search_dark-mode___XGR_&quot;]/div[@class=&quot;sc-951d4f56-1 fNZpMt search-box&quot;]/div[@class=&quot;sc-951d4f56-2 hPmeav&quot;]/input[@class=&quot;sc-951d4f56-3 gNFMEo search-input desktop-input&quot;]</value>
-      <webElementGuid>06a2d671-0c9e-499b-8580-2cd9f7dc24d2</webElementGuid>
+      <webElementGuid>52bfd820-9b38-4fb2-b83b-c01c369341ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='XRP']</value>
-      <webElementGuid>edcfa7fe-84a1-43bc-8499-52bfe35aec86</webElementGuid>
+      <webElementGuid>876f8156-2735-4357-aa6b-d4ef9b54e10d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/div/div/div/div/input</value>
-      <webElementGuid>d81235bd-fdcf-4942-a522-ba50ee9ca9b7</webElementGuid>
+      <webElementGuid>3c5af573-2e80-4021-bbdf-923eba4cfba8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search coin, pair, NFT, contract address, exchange, or post']</value>
-      <webElementGuid>0e471b32-acb0-41fa-aed4-804e69983f97</webElementGuid>
+      <webElementGuid>75e90591-8266-45a4-8114-7ba554beb61d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,6 +7,6 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://coinmarketcap.com/'</initValue>
-      <name>url</name>
+      <name>urlCoinMarket</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

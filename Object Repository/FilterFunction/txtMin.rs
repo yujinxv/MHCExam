@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtMin</name>
+   <tag></tag>
+   <elementGuidId>c39d0e31-f2e5-4f1b-95ca-49739a25d44a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.BaseInput_base-wrapper__QXTyE.BaseInput_size-sm__z0vCT.Input_base__9dFSw.Input_vd__b8IjZ.RangeFormItem_input__v7eJ5.BaseInput_vd__yZx2O > div.BaseInput_input-wrapper__wWV3S.native-el-wrapper > input.cmc-input.input-el</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Min' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0c7e2952-69b8-406e-89ad-5d09dc85a2fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cmc-input input-el</value>
+      <webElementGuid>b197fb2e-d2c9-4052-b91b-05ec41220327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Min</value>
+      <webElementGuid>c737389c-cdb5-4f66-9ca8-3eb92c5b1d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b529b58a-66ee-4cda-a597-c1e1e3eedfed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;DAY NIGHT common-overflow&quot;]/div[3]/div[2]/div[@class=&quot;Overlay_base__X2QP3 Modal_overlay__wGYev overlay-fade-enter-done&quot;]/div[@class=&quot;Modal_wrapper__KLeg2 Modal_mobile-fullscreen__nSEhF TableListingFilterModal_modal-wrapper__MzBWs&quot;]/div[@class=&quot;modal-body-wrapper Modal_dialog-body-wrapper__G4CTp Modal_dialog-common-wrapper-space__9oWxL&quot;]/div[@class=&quot;Form_form__YA6g_ TableListingFilterModal_form__JrfpJ&quot;]/div[@class=&quot;Form_form-item__xR_Oa form-item&quot;]/div[@class=&quot;Form_field-container__ovGrK&quot;]/div[@class=&quot;RangeFormItem_container__PK9re&quot;]/div[@class=&quot;BaseInput_base-wrapper__QXTyE BaseInput_size-sm__z0vCT Input_base__9dFSw Input_vd__b8IjZ RangeFormItem_input__v7eJ5 BaseInput_vd__yZx2O&quot;]/div[@class=&quot;BaseInput_input-wrapper__wWV3S native-el-wrapper&quot;]/input[@class=&quot;cmc-input input-el&quot;]</value>
+      <webElementGuid>52f51c7b-421e-46c2-ba32-2c3371418f20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>8c94134c-0017-4e01-b8b4-1ca63a701b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+      <webElementGuid>4be3ec89-7c65-4ae6-b241-89d9c5f5be65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Min' and @type = 'text']</value>
+      <webElementGuid>00f59983-1874-4c4d-96b5-9d1ac8cb1f0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
