@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnFilter</name>
+   <tag></tag>
+   <elementGuidId>5fb2540e-8357-4228-b462-957c3996882e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div/div/div[4]/div/div/div[2]/div/button/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-65e7f566-0.bsfZcw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4cd47a02-aa1c-4d5d-9160-c5b37c12df7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-65e7f566-0 bsfZcw</value>
+      <webElementGuid>d50aa61d-1188-4978-a281-094331ce5152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filters</value>
+      <webElementGuid>d939045a-dbe7-4d8a-9d93-c5448bddd4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-7c7f3865-1 hhqoRw global-layout-v2&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;cmc-body-wrapper&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;sc-aaad5b7-2 fqornS&quot;]/div[@class=&quot;ScrollIndicatorWrapper_scroll-indicator-wrapper__1jw01&quot;]/div[@class=&quot;ScrollIndicatorWrapper_scroll-indicator-wrapper__content__fVuz6&quot;]/div[@class=&quot;TableControl_table-control__oyOHc&quot;]/div[@class=&quot;TableControl_right-part__vLQWm&quot;]/div[@class=&quot;TableListingFiltersV4_wrapper__Oowu7&quot;]/button[@class=&quot;sc-65e7f566-0 eQBACe BaseButton_base__34gwo bt-base BaseButton_t-default__8BIzz BaseButton_size-sm__oHKNE BaseButton_v-tertiary__AhlyE BaseButton_vd__gUkWt TableListingFiltersV4_button__Ipkdq&quot;]/div[@class=&quot;sc-65e7f566-0 jpqzzO BaseButton_btnContentWrapper__vm2Ue&quot;]/div[@class=&quot;sc-65e7f566-0 eQBACe BaseButton_labelWrapper___Wzzw&quot;]/span[@class=&quot;sc-65e7f566-0 bsfZcw&quot;]</value>
+      <webElementGuid>1e206531-654e-4e4c-a121-d8f4231a69ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div/div/div[4]/div/div/div[2]/div/button/div/div[2]/span</value>
+      <webElementGuid>31e47aa9-8c25-4335-b1bd-5e3f0a1bd3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Most Visited'])[2]/following::span[1]</value>
+      <webElementGuid>0263fa07-bb12-4933-9fa2-9ab47007be4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gainers'])[1]/following::span[1]</value>
+      <webElementGuid>41bdab4c-45e4-406d-9fef-4329a7f57902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/preceding::span[1]</value>
+      <webElementGuid>06e042ae-ac70-4bfe-94fa-cf65efa0d1a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show 100'])[1]/preceding::span[1]</value>
+      <webElementGuid>a145422c-015b-42ef-858c-c1e55056b3ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filters']/parent::*</value>
+      <webElementGuid>f2049e3c-674e-47f8-86c2-76b92137ab74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/span</value>
+      <webElementGuid>13ff9c7a-8e1b-47d2-9a58-7dd8bdc9c919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Filters' or . = 'Filters')]</value>
+      <webElementGuid>4405c051-ce12-4e01-bc0a-f2a3569535b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

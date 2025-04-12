@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DeFi</name>
+   <tag></tag>
+   <elementGuidId>e5b20773-61e0-4b1e-9876-ce8f42594be2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-coin-about']/div/div[2]/section/div/div/div/div[2]/div/div/p[3]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3) > a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30c29107-0b4b-4c69-8a08-ded7cb1be7d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://coinmarketcap.com/alexandria/de/glossary/defi</value>
+      <webElementGuid>ccadc7ad-289c-4b51-b20f-bc65cf4c59ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DeFi</value>
+      <webElementGuid>0f1b5cba-e35f-42e1-88ec-fcd6b4f00682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-coin-about&quot;)/div[@class=&quot;sc-4fc2860f-0 eyGmhU&quot;]/div[@class=&quot;mobile-coin-video-wrapper&quot;]/section[1]/div[@class=&quot;sc-65e7f566-0 fxiaux&quot;]/div[@class=&quot;sc-c5e877a9-0 cVESgC&quot;]/div[@class=&quot;readmoreDesc&quot;]/div[@class=&quot;sc-65e7f566-0 ggPOQl show&quot;]/div[@class=&quot;sc-5f3326dd-0 cQTTgP&quot;]/div[1]/p[3]/a[2]</value>
+      <webElementGuid>259e5541-62f9-4033-8730-c657cc1b044b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-coin-about']/div/div[2]/section/div/div/div/div[2]/div/div/p[3]/a[2]</value>
+      <webElementGuid>aabbad42-418e-47f2-a970-0bef525e8f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'DeFi')])[2]</value>
+      <webElementGuid>21d81e93-f649-466f-8958-b0adf3d0691e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DApps'])[1]/following::a[1]</value>
+      <webElementGuid>515c7dfb-0835-4436-bf1f-dbd1441a2782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='smart contracts'])[1]/following::a[2]</value>
+      <webElementGuid>24c5c622-1114-4c60-ac25-37a1f4286515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bridges'])[1]/preceding::a[1]</value>
+      <webElementGuid>e6c50454-b7c8-44f1-8446-826a7685fd72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who Are the Founders of Avalanche?'])[1]/preceding::a[2]</value>
+      <webElementGuid>a143933f-9279-473d-a619-001e561458a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://coinmarketcap.com/alexandria/de/glossary/defi')]</value>
+      <webElementGuid>dd43afa6-ed36-46cc-b795-f67565bb3967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a[2]</value>
+      <webElementGuid>69c62ad6-e48c-4012-912d-8415b6b66ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://coinmarketcap.com/alexandria/de/glossary/defi' and (text() = 'DeFi' or . = 'DeFi')]</value>
+      <webElementGuid>d0c315c6-e789-4b30-942b-1c3813c75668</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate can filter by DeFi Category</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33e0f396-b0c1-4477-b6b4-68b7e3aadd57</testCaseGuid>
+</TestCaseEntity>

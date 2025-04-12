@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_text</name>
+   <tag></tag>
+   <elementGuidId>1627f07d-89a1-40a0-b075-adc0a242e0cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Select_input-wrapper__7i1cj.Select_can__kZAXE.Select_show__avTdh > input[type=&quot;text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>546c152b-fbd1-4e44-b7f0-cfc7543b0526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5b25e8e3-ec0d-4ffc-9470-88b2fd44b209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;DAY NIGHT common-overflow&quot;]/div[3]/div[2]/div[@class=&quot;Overlay_base__X2QP3 Modal_overlay__wGYev overlay-fade-enter-done&quot;]/div[@class=&quot;Modal_wrapper__KLeg2 Modal_mobile-fullscreen__nSEhF TableListingFilterModal_modal-wrapper__MzBWs&quot;]/div[@class=&quot;modal-body-wrapper Modal_dialog-body-wrapper__G4CTp Modal_dialog-common-wrapper-space__9oWxL&quot;]/div[@class=&quot;Form_form__YA6g_ TableListingFilterModal_form__JrfpJ&quot;]/div[@class=&quot;Form_form-item__xR_Oa form-item&quot;]/div[@class=&quot;Form_field-container__ovGrK&quot;]/div[@class=&quot;BaseInput_base-wrapper__QXTyE BaseInput_size-sm__z0vCT BasePopover_base__T5yOf popover-base Select_trigger-wrapper__fwRzq BaseInput_cs-focus__e2oY8 BaseInput_vd__yZx2O&quot;]/div[@class=&quot;BaseInput_input-wrapper__wWV3S native-el-wrapper&quot;]/div[@class=&quot;Select_select-display__aUFzu&quot;]/span[@class=&quot;Select_input-wrapper__7i1cj Select_can__kZAXE Select_show__avTdh&quot;]/input[1]</value>
+      <webElementGuid>2ff3aadf-90da-4f0c-84b1-9599c73ecd1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>136ad52e-9843-4c13-b041-0caff8cc1021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/span/input</value>
+      <webElementGuid>b88d0604-9146-4b60-b6de-a1523475444a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>e64d11ef-bdd0-4c60-8efa-2e59cf990119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

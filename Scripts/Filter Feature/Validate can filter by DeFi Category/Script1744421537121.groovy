@@ -17,20 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-//Open Browser and navigate to Coinmarketcap website
+'Open Browser and navigate to Coinmarketcap website'
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl(GlobalVariable.urlCoinMarket)
 
-'Click Search bar and search for XRP'
-WebUI.click(findTestObject('Object Repository/SearchFunction/searchBar'))
+'Filter DeFi in all categories'
+WebUI.click(findTestObject('Object Repository/FilterFunction/btnFilter'))
 
-WebUI.setText(findTestObject('Object Repository/SearchFunction/searchBarInput'), findTestData('Data Files/Coins').getValue('Coin', 1))
+WebUI.verifyElementClickable(findTestObject('Object Repository/FilterFunction/divAllCategories'))
 
-WebUI.click(findTestObject('Object Repository/SearchFunction/divXRP'))
+WebUI.click(findTestObject('Object Repository/FilterFunction/divAllCategories'))
 
-'Verify XRP label'
-WebUI.verifyElementPresent(findTestObject('Object Repository/SearchFunction/lblXRP'), 
+WebUI.setText(findTestObject('Object Repository/FilterFunction/input_text'), 
+    'Defi')
+
+WebUI.click(findTestObject('Object Repository/FilterFunction/div_DeFi'))
+
+WebUI.click(findTestObject('Object Repository/FilterFunction/btnApply'))
+
+'Click one of the coins and verify if it is a DeFi coin'
+
+WebUI.click(findTestObject('Object Repository/FilterFunction/divAvalanche'))
+
+DeFiCoin = WebUI.verifyElementPresent(findTestObject('Object Repository/FilterFunction/a_DeFi'), 
     0)
 
+println("${DeFiCoin} confirmed")

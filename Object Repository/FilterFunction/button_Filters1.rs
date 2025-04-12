@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Filters1</name>
+   <tag></tag>
+   <elementGuidId>f5cf3f5e-694d-4cb6-8b46-5812e79c5281</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div/div/div[4]/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-65e7f566-0.eQBACe.BaseButton_base__34gwo.bt-base.BaseButton_t-default__8BIzz.BaseButton_size-sm__oHKNE.BaseButton_v-tertiary__AhlyE.BaseButton_vd__gUkWt.TableListingFiltersV4_button__Ipkdq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d8371194-64a9-44a3-b5ed-0a54673e8a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-65e7f566-0 eQBACe BaseButton_base__34gwo bt-base BaseButton_t-default__8BIzz BaseButton_size-sm__oHKNE BaseButton_v-tertiary__AhlyE BaseButton_vd__gUkWt TableListingFiltersV4_button__Ipkdq</value>
+      <webElementGuid>d566588b-7560-491d-a3ea-016448063079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filters1</value>
+      <webElementGuid>67114c4c-20ab-4a89-932a-c7ad020cf8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-7c7f3865-1 hhqoRw global-layout-v2&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;cmc-body-wrapper&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;sc-aaad5b7-2 fqornS&quot;]/div[@class=&quot;ScrollIndicatorWrapper_scroll-indicator-wrapper__1jw01&quot;]/div[@class=&quot;ScrollIndicatorWrapper_scroll-indicator-wrapper__content__fVuz6&quot;]/div[@class=&quot;TableControl_table-control__oyOHc&quot;]/div[@class=&quot;TableControl_right-part__vLQWm&quot;]/div[@class=&quot;TableListingFiltersV4_wrapper__Oowu7&quot;]/button[@class=&quot;sc-65e7f566-0 eQBACe BaseButton_base__34gwo bt-base BaseButton_t-default__8BIzz BaseButton_size-sm__oHKNE BaseButton_v-tertiary__AhlyE BaseButton_vd__gUkWt TableListingFiltersV4_button__Ipkdq&quot;]</value>
+      <webElementGuid>7e22d737-70b6-4b66-b6ba-bfa93d4d455e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div/div/div[4]/div/div/div[2]/div/button</value>
+      <webElementGuid>7c08e21c-deee-4c1b-8a6d-562cc2f85a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Most Visited'])[2]/following::button[1]</value>
+      <webElementGuid>f0fb2b45-e2e6-499f-ae97-ac3bc548c522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gainers'])[1]/following::button[1]</value>
+      <webElementGuid>9c251cdb-4a10-4596-8c05-ee0f76532043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/preceding::button[1]</value>
+      <webElementGuid>cabd6e07-21c2-46e8-bb2c-3f8fe803f503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>57082393-92c1-4328-be9e-52dcb788f50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Filters1' or . = 'Filters1')]</value>
+      <webElementGuid>db4272bd-853d-4368-b5d2-5437d5743711</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

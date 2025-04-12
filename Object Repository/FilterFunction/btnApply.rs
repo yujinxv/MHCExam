@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnApply</name>
+   <tag></tag>
+   <elementGuidId>59b77a72-dbeb-4083-9944-94bd2bb09065</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.FilterModalFooter_footer___MstY > button.sc-65e7f566-0.eQBACe.BaseButton_base__34gwo.bt-base.BaseButton_t-default__8BIzz.BaseButton_size-md__9TpuT.BaseButton_v-primary__gkWpJ.BaseButton_vd__gUkWt > div.sc-65e7f566-0.jpqzzO.BaseButton_btnContentWrapper__vm2Ue > div.sc-65e7f566-0.eQBACe.BaseButton_labelWrapper___Wzzw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55bffc50-36d7-4a5c-813a-9106b09d8c0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-role</name>
+      <type>Main</type>
+      <value>btn-content-item</value>
+      <webElementGuid>aab9de14-a421-442b-84df-5cf2e4be2e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-65e7f566-0 eQBACe BaseButton_labelWrapper___Wzzw</value>
+      <webElementGuid>4d471dfc-19c9-4c49-9195-fa766a9413b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply</value>
+      <webElementGuid>7f111365-2ada-454a-98a7-08a7fd2b054b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;DAY NIGHT common-overflow&quot;]/div[3]/div[2]/div[@class=&quot;Overlay_base__X2QP3 Modal_overlay__wGYev overlay-fade-enter-done&quot;]/div[@class=&quot;Modal_wrapper__KLeg2 Modal_mobile-fullscreen__nSEhF TableListingFilterModal_modal-wrapper__MzBWs&quot;]/div[@class=&quot;FilterModalFooter_footer___MstY&quot;]/button[@class=&quot;sc-65e7f566-0 eQBACe BaseButton_base__34gwo bt-base BaseButton_t-default__8BIzz BaseButton_size-md__9TpuT BaseButton_v-primary__gkWpJ BaseButton_vd__gUkWt&quot;]/div[@class=&quot;sc-65e7f566-0 jpqzzO BaseButton_btnContentWrapper__vm2Ue&quot;]/div[@class=&quot;sc-65e7f566-0 eQBACe BaseButton_labelWrapper___Wzzw&quot;]</value>
+      <webElementGuid>95abb9dc-5c3f-4e44-9be9-fa71abcb4cc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[4]</value>
+      <webElementGuid>8c21eed3-1da8-4005-b736-067668d3d236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hours'])[2]/following::div[9]</value>
+      <webElementGuid>f513b681-a451-4acb-93f5-6c8b7a82bd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Diamonds'])[1]/preceding::div[20]</value>
+      <webElementGuid>7cd1fb74-163b-4a1a-b18b-272e624d49b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy.'])[1]/preceding::div[35]</value>
+      <webElementGuid>2fa2fc15-918f-475b-855a-e980054eb9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
+      <webElementGuid>f905c019-eb82-4779-8e29-1f4355152b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div/div</value>
+      <webElementGuid>32353170-9df3-49c1-8a5a-1d2e762e449a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>bd838bc1-74e5-4009-b61a-5463583c90b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

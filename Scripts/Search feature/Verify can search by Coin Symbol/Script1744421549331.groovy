@@ -21,16 +21,16 @@ import org.openqa.selenium.Keys as Keys
 'Open Browser and navigate to Coinmarketcap website'
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl(GlobalVariable.urlCoinMarket)
 
 'Click Search bar and search for XRP'
 WebUI.click(findTestObject('Object Repository/SearchFunction/searchBar'))
 
-WebUI.setText(findTestObject('Object Repository/SearchFunction/searchBarInput'), findTestData('Data Files/Coins').getValue('Coin full name', 2))
+WebUI.setText(findTestObject('Object Repository/SearchFunction/searchBarInput'), findTestData('Data Files/Coins').getValue('Coin', 1))
 
-WebUI.click(findTestObject('Object Repository/SearchFunction/divEthereum'))
+WebUI.click(findTestObject('Object Repository/SearchFunction/divXRP'))
 
-'Verify Ethereum label displaying'
-WebUI.verifyElementPresent(findTestObject('Object Repository/SearchFunction/lblEthereum'), 
+'Verify XRP label'
+WebUI.verifyElementPresent(findTestObject('Object Repository/SearchFunction/lblXRP'), 
     0)
 

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DeFi</name>
+   <tag></tag>
+   <elementGuidId>e48fe2db-3a6c-4781-ba6f-ece64ee63300</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':r4j:']/div/div/div/div/div/span/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.OptionItem_base__KdAF9.OptionItem_with-wrapper__WFTaL.OptionItem_vd__1Gw0T > span.OptionItem_dd-content__x9uYd > div.soi-item.soi-text-info-wrapper > div.LongTextDisplay_content-fg__yyqLY.OptionItem_label-item__FTUOJ.soi-label.soi-text-item > div.LongTextDisplay_content-wrapper__2ho_9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b748f00b-9ac5-417f-a39f-ba5426459486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LongTextDisplay_content-wrapper__2ho_9</value>
+      <webElementGuid>b436278e-9faf-4c09-8877-3870db20a7a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DeFi</value>
+      <webElementGuid>62fab358-0162-4fff-8dd2-3a139acf10c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r4j:&quot;)/div[@class=&quot;BasePopover_content__87vV1 pp-main-content&quot;]/div[@class=&quot;Popover_popover-content__qBVw2 popover-content&quot;]/div[@class=&quot;PopoverDes_base__BtOux pp-des Popover_popover-content-des__fQkxl&quot;]/div[1]/div[@class=&quot;OptionItem_base__KdAF9 OptionItem_with-wrapper__WFTaL OptionItem_vd__1Gw0T&quot;]/span[@class=&quot;OptionItem_dd-content__x9uYd&quot;]/div[@class=&quot;soi-item soi-text-info-wrapper&quot;]/div[@class=&quot;LongTextDisplay_content-fg__yyqLY OptionItem_label-item__FTUOJ soi-label soi-text-item&quot;]/div[@class=&quot;LongTextDisplay_content-wrapper__2ho_9&quot;]</value>
+      <webElementGuid>7c1d4438-b690-4cb3-ac11-136791f662d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':r4j:']/div/div/div/div/div/span/div/div/div</value>
+      <webElementGuid>5dca951f-6e24-40fb-9229-249cba7cfb94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm My Choices'])[1]/following::div[12]</value>
+      <webElementGuid>85a9e726-d2c8-462e-8385-4ed0510f8c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject All'])[1]/following::div[12]</value>
+      <webElementGuid>fa288640-cf76-4d45-b423-4f150b38bfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DeFi 2.0'])[1]/preceding::div[2]</value>
+      <webElementGuid>ce3cd7eb-0ce0-47bb-8810-a514406ab30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DeFi Index'])[1]/preceding::div[7]</value>
+      <webElementGuid>aa33fc2f-b0ca-413d-876c-2e22a6319d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DeFi']/parent::*</value>
+      <webElementGuid>1c096d8c-55dd-431f-ae0a-3a0f31356109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/div/div/span/div/div/div</value>
+      <webElementGuid>fa6cbc9e-f394-468b-adf5-3d7f25737d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DeFi' or . = 'DeFi')]</value>
+      <webElementGuid>b7e83bb5-ee97-468b-a627-e924b0583468</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

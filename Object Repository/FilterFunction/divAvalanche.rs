@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divAvalanche</name>
+   <tag></tag>
+   <elementGuidId>b482a8bb-ab88-45b7-bda8-e0ae408389db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div/div/div[5]/div/table/tbody/tr[2]/td[3]/div/a/span/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(3) > div.sc-4c05d6ef-0.bLqliP > a.cmc-link > span.sc-65e7f566-0.sc-ddaafcf5-0.eQBACe.enyVEn.coin-item > div.sc-65e7f566-0.sc-ddaafcf5-1.eQBACe.GYriK > div.sc-65e7f566-0.sc-ddaafcf5-2.eQBACe.hrmnMs.hide-ranking-number > p.sc-65e7f566-0.iPbTJf.coin-item-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cd3b8533-34c7-4be3-8d83-1d1754d9b00a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-65e7f566-0 iPbTJf coin-item-name</value>
+      <webElementGuid>607926d5-bc61-4f47-bd6a-f58e09a1648c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avalanche</value>
+      <webElementGuid>fb7bf689-af76-422e-b4d9-0e2f800edfef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-7c7f3865-1 hhqoRw global-layout-v2&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;cmc-body-wrapper&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;sc-aaad5b7-2 fqornS&quot;]/div[5]/div[@class=&quot;sc-db1da501-2 chNJPK&quot;]/table[@class=&quot;sc-db1da501-3 kTEDDd cmc-table&quot;]/tbody[1]/tr[2]/td[3]/div[@class=&quot;sc-4c05d6ef-0 bLqliP&quot;]/a[@class=&quot;cmc-link&quot;]/span[@class=&quot;sc-65e7f566-0 sc-ddaafcf5-0 eQBACe enyVEn coin-item&quot;]/div[@class=&quot;sc-65e7f566-0 sc-ddaafcf5-1 eQBACe GYriK&quot;]/div[@class=&quot;sc-65e7f566-0 sc-ddaafcf5-2 eQBACe hrmnMs  hide-ranking-number&quot;]/p[@class=&quot;sc-65e7f566-0 iPbTJf coin-item-name&quot;]</value>
+      <webElementGuid>a80ab9ba-403f-4f3b-a46a-8efcd8a1baf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div/div/div[5]/div/table/tbody/tr[2]/td[3]/div/a/span/div/div/p</value>
+      <webElementGuid>103c2f1e-00c7-46fa-88b1-039901d925fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$8,255,842,380'])[1]/following::p[4]</value>
+      <webElementGuid>f7f1a18b-871f-4541-8eb0-84dc5d8f2167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[2]/preceding::p[2]</value>
+      <webElementGuid>e95e3e17-1d8b-4f2d-a550-746b3d2da6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$18.97'])[1]/preceding::p[2]</value>
+      <webElementGuid>4361b10a-493d-44d5-bde5-441a6ed5adcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avalanche']/parent::*</value>
+      <webElementGuid>d349862c-1b77-4841-b6b5-e89a88104072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/div/a/span/div/div/p</value>
+      <webElementGuid>26094757-bb53-4236-82af-fd0a482eeecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Avalanche' or . = 'Avalanche')]</value>
+      <webElementGuid>e768ec96-6db4-4dfc-b4f2-2731c130f16f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
